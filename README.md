@@ -1,9 +1,10 @@
 Procedure
 DOWNLOAD JAVA AND SET VARIABLES
-1)Download and install JAVA from https://www.java.com/en/download/
-2)In the System Properties window,click Advanced tab and then click the Environment 
 
-Variables button.
+1)Download and install JAVA from https://www.java.com/en/download/
+
+2)In the System Properties window,click Advanced tab and then click the Environment Variables button.
+
 3)In the "System variables" section of the Environment Variables window that opens, ensure that the JAVA_HOME and JRE_HOME environment variables 
 are pointed at the following locations:
 JAVA_HOME: C:\Program Files\Java\jdk<version>
