@@ -1,7 +1,7 @@
 Procedure
 DOWNLOAD JAVA AND SET VARIABLES
 
-1)Download and install JAVA from https://www.java.com/en/download/
+1)Download and install JAVA from https://www.java.com/en/download/ and https://www.oracle.com/java/technologies/javase/javase9-archive-downloads.html for JRE
 
 2)In the System Properties window,click Advanced tab and then click the Environment Variables button.
 
